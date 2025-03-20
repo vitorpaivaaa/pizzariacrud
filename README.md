@@ -8,6 +8,3 @@
  
  - ``Java 8``
  - ``SpringTolls SpringBoot``
-
-# Dropbox Core SDK for Java
-![GitHub](https://img.shields.io/github/license/dropbox/dropbox-sdk-java)
